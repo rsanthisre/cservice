@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CommonLib/CommonLib.vcxproj" Id="6b8ff784-083d-4278-8c37-ab6cbcae7fe1" />
+  <Project Path="DAXService/DAX_Service.vcxproj" Id="80cd97b4-60c8-4854-bf37-dc7b8415e6cb" />
+  <Project Path="Logger/Logger.vcxproj" Id="0d2fe37c-930b-4688-a18b-309f4c411f2f" />
+</Solution>
